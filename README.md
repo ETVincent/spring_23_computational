@@ -10,4 +10,4 @@ Notes:
 Running as a Jupyter notebook. 
 
 Organization:
-The project proposal can be found in the Papers folder. 
+The project proposal and progress report can be found in the Papers folder. 
